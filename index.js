@@ -20,3 +20,6 @@ function newFeatureAdd(){
     console.log("This is new feature 1");
 }
 
+function hello(){
+    console.log('This is testing')
+}
