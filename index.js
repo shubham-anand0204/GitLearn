@@ -23,3 +23,9 @@ function newFeatureAdd(){
 function hello(){
     console.log('This is testing')
 }
+
+function featB(){
+    console.log('This is new feature');
+    console.log("This is new feature 1");
+}
+
