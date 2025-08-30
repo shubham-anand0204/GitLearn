@@ -10,3 +10,12 @@ function sayName(){
 function newFn(){
     console.log("Hey I am a new fn");
 }
+
+function add(){
+    console.log("Wrong Commit");
+}
+
+function newFeatureAdd(){
+    console.log('This is new feature');
+}
+
